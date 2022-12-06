@@ -1,0 +1,30 @@
+.head {
+    font-family: 'Zen Dots', cursive;
+    color: rgb(255, 51, 0);
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+}
+
+.homebg {
+    background-color: aquamarine;
+    font-size: large;
+}
+
+.needed {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: larger;
+}
+
+.tips {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 20px;
+    
+}
+
+.tableauPlaceholder {
+    size: 80%;
+}
